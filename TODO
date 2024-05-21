@@ -1,0 +1,3 @@
+-   put all of the functions that grab data from the image into a function, 
+    and put all of the various data structures that hold the image data into one
+    data structure (recreate the png_info struct, basically)
